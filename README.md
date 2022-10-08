@@ -3,7 +3,7 @@
 
 
 - ✨ I’m Farjana Akter, an Android Application Developer
-- 🔭 I’m currently working on Fiverr and Upwork
+- 🔭 I’m currently working on Upwork
 - :sunny:  3+ years of experience with Android App Development
 - 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate on a global IT
