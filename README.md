@@ -2,10 +2,10 @@
 
 
 
-- ✨ I’m Farjana Akter, an Android Application Developer
-- 🔭 I’m currently working on Upwork
+- ✨ I’m Farjana Akter, a Mobile Application Developer/ Software developer
+- 🔭 Anymore I’m a Computer Science Lecturer at Sylhet International University 
 - :sunny:  3+ years of experience with Android App Development
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning kotlin 
 - 👯 I’m looking to collaborate on a global IT
 - 📫 How to reach me: dev0wk1st@gmail.com
 - ⚡ Self-motivated, honest & punctual 
