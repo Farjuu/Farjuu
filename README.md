@@ -7,7 +7,7 @@
 - :sunny:  3+ years of experience with Android App Development
 - 🌱 I’m currently learning kotlin 
 - 👯 I’m looking to collaborate on a global IT
-- 📫 How to reach me: dev0wk1st@gmail.com
+- 📫 Reach out to me: dev0wk1st@gmail.com
 - ⚡ Self-motivated, honest & punctual 
 
 
