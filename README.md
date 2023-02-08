@@ -3,7 +3,6 @@
 
 
 - ✨ I’m Farjana Akter, a Mobile Application Developer/ Software developer
-- 🔭 Anymore I’m a Computer Science Lecturer at Sylhet International University 
 - :sunny:  3+ years of experience with Android App Development
 - 🌱 I’m currently learning kotlin 
 - 👯 I’m looking to collaborate on a global IT
@@ -20,6 +19,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Fiverr and Upwork
+- 🔭 Anymore I’m a Computer Science Lecturer at Sylhet International University 
 - 😄 3+ years of experience with Android App Development
 - 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate on a global IT
