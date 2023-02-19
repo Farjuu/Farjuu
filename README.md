@@ -3,8 +3,8 @@
 
 
 - ✨ I’m Farjana Akter, a Mobile Application Developer/ Software developer
-- :sunny:  3+ years of experience with Android App Development
-- 🌱 I’m currently learning kotlin 
+- :sunny:  4+ years of experience with Android App Development
+- 🌱 I’m currently learning flutter 
 - 👯 I’m looking to collaborate on a global IT
 - 📫 Reach out to me: dev0wk1st@gmail.com
 - ⚡ Self-motivated, honest & punctual 
