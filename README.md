@@ -2,7 +2,7 @@
 
 
 
-- ✨ I’m Farjana Akter, a Mobile Application Developer/ Software developer
+- ✨ I’m Farjana Akter, a Mobile Application Developer and data analyst
 - :sunny:  4+ years of experience with Android App Development
 - 🌱 I’m currently learning flutter 
 - 👯 I’m looking to collaborate on a global IT
